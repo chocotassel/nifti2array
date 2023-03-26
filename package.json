@@ -1,0 +1,22 @@
+{
+  "name": "nifti2array",
+  "version": "1.0.0",
+  "description": "A transformer that convert nifti file into array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chocotassel/nifti2array.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "NIFTI"
+  ],
+  "author": "chocotassel",
+  "license": "MIT",
+  "dependencies": {
+    "nifti-reader-js": "^0.6.2"
+  }
+}
